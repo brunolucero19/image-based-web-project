@@ -91,6 +91,7 @@ form button {
     border-radius: 4px;
     font-size: 10px;
     cursor: pointer;
+    transition: all 1s;
 }
 
 form button:hover{
@@ -109,6 +110,7 @@ footer a {
     font-weight: bold;
     color: black;
     text-decoration: none;
+    transition: all 0.5s;
 }
 
 footer a:hover{
